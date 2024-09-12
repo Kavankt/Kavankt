@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Kavankt
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computer Science Engineering
-- 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me through LinkedIn
+
 
 <!---
 Kavankt/Kavankt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
