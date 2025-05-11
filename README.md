@@ -18,15 +18,16 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Engineer;Full-Stack+Developer;Data+Enthusiast" alt="Typing SVG">
-</p>
 
-### 👨‍💻 I'm interested in Full Stack Development  
-### 🎓 I'm currently pursuing Computer Science Engineering with a specialization in Data Science  
-### 📫 Reach me at: [kavankt602@gmail.com](mailto:kavankt602@gmail.com)
+🚀 Aspiring Full Stack Developer  
+<ul>
+  <li><strong>B.E. in Computer Science</strong></li>
+  <li>📊 <strong>Specialization:</strong> Data Science</li>
+  <li>💡 <em>Curious,Creative Mind, and Innovation-Driven</em></li>
+</ul>
+ 
+📬 **Let’s Connect**   [kavankt602@gmail.com](mailto:kavankt602@gmail.com)
 
----
 
 ---
 
