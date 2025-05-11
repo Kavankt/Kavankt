@@ -18,16 +18,32 @@
   </a>
 </p>
 
-<p align="center"> 🚀 <strong>Aspiring Full Stack Developer</strong> </p> 
-<p align="center"> 🎓 <strong>B.E. in Computer Science</strong> | 📊 <strong>Specialization: Data Science</strong> </p> 
-<p align="center"> 💡 <em>Curious, Creative Mind, and Innovation-Driven</em> </p> 
-<p align="center"> 📬 <strong>Any Queries:</strong> <a href="mailto:kavankt602@gmail.com">kavankt602@gmail.com</a> </p>
+<img align="right" src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/64cdee22-0172-411e-ab3b-a8a704216916" height="250" width="220" />
 
-## 🔗 Connect with Me
+<h3>
+🚀 Aspiring Full Stack Developer 
+🎓 B.E. in Computer Science | 📊 Specialization: Data Science
+📫 Let's connect! Reach me at -  kavankt602@gmail.com
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavan-k-t/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kavannn._/)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavankt602@gmail.com)
+<hr>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=niharapadil&label=Profile%20views&color=0e75b6&style=flat" alt="niharapadil" /> 
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/kavan-k-t/" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://kavankt.vercel.app/" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=512&id=59822&format=png" alt="Website" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/kavannn._/#" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=512&id=32323&format=png" alt="Instagram" height="40" width="40" />
+  </a>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kavankt&style=flat-square&color=blue)
 
