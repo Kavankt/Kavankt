@@ -11,7 +11,7 @@
   />
 </p>
 
-<img src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif" alt="Animated Intro" height="300" />
+<img align="right" src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif" alt="Animated Intro" height="300" />
 
 ### 🚀 Aspiring Full Stack Developer
 
