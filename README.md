@@ -16,8 +16,10 @@
 <img align="right" src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/64cdee22-0172-411e-ab3b-a8a704216916" height="250" width="220" />
 
 ### 🚀 Aspiring Full Stack Developer  
-🎓 B.E. in Computer Science | 📊 Specialization: Data Science  
-📫 Reach me at: **kavankt602@gmail.com**
+h2 align="center">
+  🎓 <b>B.E. in Computer Science</b> | 📊 <b>Specialization: Data Science</b><br>
+  📫 <b>Reach me at:</b> <a href="mailto:kavankt602@gmail.com">kavankt602@gmail.com</a>
+</h2>
 
 ---
 
