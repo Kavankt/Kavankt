@@ -1,10 +1,7 @@
 <h1 align="center">👋 Hi, I'm KAVAN K T</h1>
 
 <p align="center">
-  <a href="https://kavankt.vercel.app/" target="_blank">
-    <img align="right" src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/64cdee22-0172-411e-ab3b-a8a704216916" height="250" width="220" />
-
-  </a>
+  <a href="https://kavankt.vercel.app/" target="_blank"></a>
 </p>
 
 <p align="center">
@@ -14,7 +11,7 @@
   />
 </p>
 
-<img align="right" src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/64cdee22-0172-411e-ab3b-a8a704216916" height="250" width="220" />
+<img src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif" alt="Animated Intro" height="300" />
 
 ### 🚀 Aspiring Full Stack Developer
 
