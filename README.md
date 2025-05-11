@@ -4,7 +4,7 @@
   <a href="https://kavankt.vercel.app/" target="_blank"></a>
 </p>
 
-<p align="center">
+<p align="right">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Engineer;Full-Stack+Developer;Data+Enthusiast" 
     alt="Typing SVG"
