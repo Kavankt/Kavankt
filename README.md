@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://kavankt.vercel.app/" target="_blank">
-    <img src="C:\Users\DELL\Desktop\gfh\p3-removebg-preview.png" />
+    <img src="[C:\Users\DELL\Desktop\gfh\p3-removebg-preview.png"](https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif) />
   </a>
 </p>
 
