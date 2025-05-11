@@ -19,23 +19,31 @@
 </p>
 
 
-<div align="center">
+<h3 align="left">🚀 Aspiring Full Stack Developer</h3>
 
-### 🚀 **Aspiring Full Stack Developer**  
-✨ Passionate about crafting **dynamic**, **user-centric** web experiences from **front-end to back-end**.
+<p align="left">
+✨ Crafting <strong>dynamic</strong>, <strong>user-focused</strong> web experiences — from <em>pixel-perfect frontends</em> to <code>robust backends</code>.
+</p>
 
----
+<br/>
 
-🎓 **Pursuing B.E. in Computer Science**  
-🔍 Specialization: **Data Science**  
-📍 Driven by curiosity, innovation, and clean code.
+<h4>🎓 Academic Journey</h4>
 
----
+<ul>
+  <li><strong>B.E. in Computer Science</strong></li>
+  <li>📊 <strong>Specialization:</strong> Data Science</li>
+  <li>💡 <em>Curious, Clean Coder, and Innovation-Driven</em></li>
+</ul>
 
-📬 **Let’s Connect**  
-✉️ [**kavankt602@gmail.com**](mailto:kavankt602@gmail.com)
+<br/>
 
-</div>
+<h4>📫 Let’s Connect</h4>
+
+<p>
+  💌 <a href="mailto:kavankt602@gmail.com"><strong>kavankt602@gmail.com</strong></a><br/>
+  🤝 Open to collaborations, internships, or just a friendly tech chat!
+</p>
+
 
 
 ---
