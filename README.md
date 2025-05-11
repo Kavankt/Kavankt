@@ -18,10 +18,7 @@
   </a>
 </p>
 
-<center> 🚀 **Aspiring Full Stack Developer** 🎓 **B.E. in Computer Science** | 📊 **Specialization: Data Science** 💡 *Curious, Creative Mind, and Innovation-Driven*
-📬 Let’s Connect: kavankt602@gmail.com
-
-</center>
+<p style="text-align: center;"> 🚀 <strong>Aspiring Full Stack Developer</strong> </p> <p style="text-align: center;"> 🎓 <strong>B.E. in Computer Science</strong> | 📊 <strong>Specialization: Data Science</strong> </p> <p style="text-align: center;"> 💡 <em>Curious, Creative Mind, and Innovation-Driven</em> </p> <p style="text-align: center;"> 📬 <strong>Let’s Connect:</strong> <a href="mailto:kavankt602@gmail.com">kavankt602@gmail.com</a> </p>
 ---
 
 ## 🛠️ Tech Stack
