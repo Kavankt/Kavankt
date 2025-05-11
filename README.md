@@ -1,93 +1,83 @@
-<h1 align="center" style="font-size: 48px;">👋 Hi, I'm <span style="color:#4B32C3;">KAVAN K T</span></h1>
+<h1 align="center">👋 Hi, I'm KAVAN K T</h1>
 
 <p align="center">
   <a href="https://kavankt.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-kavankt.vercel.app-4B32C3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-kavankt.vercel.app-4B32C3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;🎓+CSE+Graduate+%7C+Data+Science+Specialist;💻+Passionate+Coder+%7C+Tech+Explorer" 
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Engineer;Full-Stack+Developer;Data+Enthusiast" 
+    alt="Typing SVG"
   />
 </p>
 
-<p align="center">
-  <img src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/64cdee22-0172-411e-ab3b-a8a704216916" height="250" width="220" />
-</p>
+<img align="right" src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/64cdee22-0172-411e-ab3b-a8a704216916" height="250" width="220" />
 
-<h3 align="center">
-  🎓 <b>B.E. in Computer Science</b> | 📊 <b>Specialization: Data Science</b> <br>
-  📬 <b>Reach me at:</b> <a href="mailto:kavankt602@gmail.com">kavankt602@gmail.com</a>
-</h3>
+### 🚀 Aspiring Full Stack Developer  
+🎓 B.E. in Computer Science | 📊 Specialization: Data Science  
+📫 Reach me at: **kavankt602@gmail.com**
 
 ---
 
-<h2 align="center">🔗 Connect with Me</h2>
+### 📈 Profile Views  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kavankt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="center">
+---
+
+### 🤝 Connect with me:
+
+<p align="left">
   <a href="https://www.linkedin.com/in/kavan-k-t/" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" height="40" width="40" alt="LinkedIn" />
+    <img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="LinkedIn" height="40" width="40"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://kavankt.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=59822&format=png" height="40" width="40" alt="Website" />
+    <img src="https://img.icons8.com/?size=512&id=59822&format=png" alt="Website" height="40" width="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/kavannn._/" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=32323&format=png" height="40" width="40" alt="Instagram" />
+  <a href="https://www.instagram.com/kavannn._/#" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=32323&format=png" alt="Instagram" height="40" width="40"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">🛠️ My Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-</p>
+### Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
-<p align="center">
-  <strong>Databases:</strong><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+### Databases
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-<p align="center">
-  <strong>Tools & Frameworks:</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+### Frameworks & Tools
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavankt&show_icons=true&theme=tokyonight&include_all_commits=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavankt&layout=compact&theme=tokyonight" height="180em" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavankt&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavankt&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavankt&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavankt&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavankt&theme=tokyonight" alt="GitHub Streak" />
 </p>
