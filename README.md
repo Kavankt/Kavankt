@@ -21,7 +21,15 @@
 <p align="center"> 🚀 <strong>Aspiring Full Stack Developer</strong> </p> 
 <p align="center"> 🎓 <strong>B.E. in Computer Science</strong> | 📊 <strong>Specialization: Data Science</strong> </p> 
 <p align="center"> 💡 <em>Curious, Creative Mind, and Innovation-Driven</em> </p> 
-<p align="center"> 📬 <strong>Let’s Connect:</strong> <a href="mailto:kavankt602@gmail.com">kavankt602@gmail.com</a> </p>
+<p align="center"> 📬 <strong>Any Queries:</strong> <a href="mailto:kavankt602@gmail.com">kavankt602@gmail.com</a> </p>
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavan-k-t/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kavannn._/)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavankt602@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=kavankt&style=flat-square&color=blue)
 
 ---
 
@@ -65,11 +73,3 @@
 </p>
 
 ---
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavan-k-t/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kavannn._/)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavankt602@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kavankt&style=flat-square&color=blue)
