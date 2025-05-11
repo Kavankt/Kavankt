@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://kavankt.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-kavankt.vercel.app-4B32C3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="C:\Users\DELL\Desktop\gfh\p3-removebg-preview.png" />
   </a>
 </p>
 
