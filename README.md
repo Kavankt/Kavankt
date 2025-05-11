@@ -19,14 +19,11 @@
 </p>
 
 
-🚀 Aspiring Full Stack Developer  
-<ul>
-  <li><strong>B.E. in Computer Science</strong></li>
-  <li>📊 <strong>Specialization:</strong> Data Science</li>
-  <li>💡 <em>Curious,Creative Mind, and Innovation-Driven</em></li>
-</ul>
- 
-📬 **Let’s Connect**   [kavankt602@gmail.com](mailto:kavankt602@gmail.com)
+🚀 Aspiring Full Stack Developer
+🎓 B.E. in Computer Science | 📊 Specialization: Data Science
+💡 Curious, Creative Mind, and Innovation-Driven
+
+📬 Let’s Connect: kavankt602@gmail.com
 
 
 ---
