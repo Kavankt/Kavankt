@@ -12,13 +12,13 @@
 </p>
 
 ### 🚀 Aspiring Full Stack Developer
-
+<img align="right" src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif" alt="Animated Intro" height="300" />
 <h3>
   🎓 <b>B.E. in Computer Science</b> | 📊 <b>Specialization: Data Science</b><br>
   📫 <b>Reach me at:</b> <a href="mailto:kavankt602@gmail.com">kavankt602@gmail.com</a>
 </h3>
 
-<img align="right" src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif" alt="Animated Intro" height="300" />
+
 
 
 <h3 align="center">🤝 Connect with me</h3>
