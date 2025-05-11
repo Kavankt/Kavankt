@@ -9,7 +9,7 @@
 
 - 👨‍💻 I'm interested in **Full Stack Development**
 - 🎓 Pursuing **Computer Science with specialization in Data Science**
-- 📫 Reach me at: [kavankt602@gmail.com](mailto:youremail@domain.com)
+- 📫 Reach me at: [kavankt602@gmail.com](mailto:kavankt602@gmail.com)
 
 ---
 
@@ -28,8 +28,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavankt&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavankt&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
