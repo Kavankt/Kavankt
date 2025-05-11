@@ -14,7 +14,7 @@
 
 ### 🚀 Aspiring Full Stack Developer
 <h3>
-  🎓 <b> B.E. in Computer Science and Engineering</b> 
+  🎓 <b> B.E. in Computer Science and Engineering</b><br>
   📊 <b>Specialization: Data Science</b><br>
   📫 <b>Reach me at:</b> <a href="mailto:kavankt602@gmail.com">kavankt602@gmail.com</a>
 </h3>
