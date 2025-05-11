@@ -18,33 +18,15 @@
   </a>
 </p>
 
-
-<h3 align="left">🚀 Aspiring Full Stack Developer</h3>
-
-<p align="left">
-✨ Crafting <strong>dynamic</strong>, <strong>user-focused</strong> web experiences — from <em>pixel-perfect frontends</em> to <code>robust backends</code>.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Engineer;Full-Stack+Developer;Data+Enthusiast" alt="Typing SVG">
 </p>
 
-<br/>
+### 👨‍💻 I'm interested in Full Stack Development  
+### 🎓 I'm currently pursuing Computer Science Engineering with a specialization in Data Science  
+### 📫 Reach me at: [kavankt602@gmail.com](mailto:kavankt602@gmail.com)
 
-<h4>🎓 Academic Journey</h4>
-
-<ul>
-  <li><strong>B.E. in Computer Science</strong></li>
-  <li>📊 <strong>Specialization:</strong> Data Science</li>
-  <li>💡 <em>Curious, Clean Coder, and Innovation-Driven</em></li>
-</ul>
-
-<br/>
-
-<h4>📫 Let’s Connect</h4>
-
-<p>
-  💌 <a href="mailto:kavankt602@gmail.com"><strong>kavankt602@gmail.com</strong></a><br/>
-  🤝 Open to collaborations, internships, or just a friendly tech chat!
-</p>
-
-
+---
 
 ---
 
