@@ -7,12 +7,36 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Engineer;Full-Stack+Developer;Data+Enthusiast" alt="Typing SVG">
+  <a href="#">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Engineer;Full-Stack+Developer;Data+Enthusiast" 
+      alt="Typing SVG"
+      style="border-radius: 10px; box-shadow: 0 0 20px #36BCF7, 0 0 40px #36BCF7; transition: transform 0.3s ease, box-shadow 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 25px #36BCF7, 0 0 50px #36BCF7';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #36BCF7, 0 0 40px #36BCF7';"
+    />
+  </a>
 </p>
 
-### 👨‍💻 I'm interested in Full Stack Development  
-### 🎓 I'm currently pursuing Computer Science Engineering with a specialization in Data Science  
-### 📫 Reach me at: [kavankt602@gmail.com](mailto:kavankt602@gmail.com)
+
+<div align="center">
+
+### 🚀 **Aspiring Full Stack Developer**  
+✨ Passionate about crafting **dynamic**, **user-centric** web experiences from **front-end to back-end**.
+
+---
+
+🎓 **Pursuing B.E. in Computer Science**  
+🔍 Specialization: **Data Science**  
+📍 Driven by curiosity, innovation, and clean code.
+
+---
+
+📬 **Let’s Connect**  
+✉️ [**kavankt602@gmail.com**](mailto:kavankt602@gmail.com)
+
+</div>
+
 
 ---
 
