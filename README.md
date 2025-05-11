@@ -4,13 +4,11 @@
   <a href="https://kavankt.vercel.app/" target="_blank"></a>
 </p>
 
-<p align="left
-  ">
+
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Engineer;Full-Stack+Developer;Data+Enthusiast" 
     alt="Typing SVG"
-  />
-</p>
+
 
 <img align="right" src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif" alt="Animated Intro" height="270" />
 
