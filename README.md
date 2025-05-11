@@ -11,8 +11,6 @@
   />
 </p>
 
-<img align="right" src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif" alt="Animated Intro" height="300" />
-
 ### 🚀 Aspiring Full Stack Developer
 
 <h3>
@@ -33,6 +31,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
+
+<img align="right" src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif" alt="Animated Intro" height="300" />
 
 ---
 
