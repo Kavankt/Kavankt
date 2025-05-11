@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://kavankt.vercel.app/" target="_blank">
-    <img src="[C:\Users\DELL\Desktop\gfh\p3-removebg-preview.png"](https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif) />
+    <img src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif" alt="Animated Intro" height="300" />
   </a>
 </p>
 
@@ -15,12 +15,11 @@
 
 <img align="right" src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/64cdee22-0172-411e-ab3b-a8a704216916" height="250" width="220" />
 
-### 🚀 Aspiring Full Stack Developer  
-<h3>
-  🎓 <b>B.E. in Computer Science</b> | 📊 <b>Specialization: Data Science</b><br>
-  📫 <b>Reach me at:</b> <a href="mailto:kavankt602@gmail.com">kavankt602@gmail.com</a>
-</h3>
+## 🚀 Aspiring Full Stack Developer  
+### 🎓 B.E. in Computer Science | 📊 Specialization: Data Science  
+### 📫 Reach me at: [kavankt602@gmail.com](mailto:kavankt602@gmail.com)
 
+---
 
 <h3 align="center">🤝 Connect with me</h3>
 
@@ -35,7 +34,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
 
 ---
 
