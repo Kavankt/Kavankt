@@ -21,14 +21,14 @@
   📫 <b>Reach me at:</b> <a href="mailto:kavankt602@gmail.com">kavankt602@gmail.com</a>
 </h3>
 
----
+
 
 ### 📈 Profile Views  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kavankt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
+
 
 ### 🤝 Connect with me:
 
@@ -44,7 +44,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠️ Tech Stack
 
