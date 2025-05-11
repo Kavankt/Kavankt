@@ -7,50 +7,46 @@
 </p>
 
 <p align="center">
-  <a href="#">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Engineer;Full-Stack+Developer;Data+Enthusiast" 
-      alt="Typing SVG"
-      style="border-radius: 10px; box-shadow: 0 0 20px #36BCF7, 0 0 40px #36BCF7; transition: transform 0.3s ease, box-shadow 0.3s ease;"
-      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 25px #36BCF7, 0 0 50px #36BCF7';"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #36BCF7, 0 0 40px #36BCF7';"
-    />
-  </a>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Engineer;Full-Stack+Developer;Data+Enthusiast" 
+    alt="Typing SVG"
+  />
 </p>
 
 <img align="right" src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/64cdee22-0172-411e-ab3b-a8a704216916" height="250" width="220" />
 
-<h3>
-🚀 Aspiring Full Stack Developer 
-🎓 B.E. in Computer Science | 📊 Specialization: Data Science
-📫 Let's connect! Reach me at -  kavankt602@gmail.com
-</h3>
+### 🚀 Aspiring Full Stack Developer  
+🎓 B.E. in Computer Science | 📊 Specialization: Data Science  
+📫 Reach me at: **kavankt602@gmail.com**
 
-<hr>
+---
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=niharapadil&label=Profile%20views&color=0e75b6&style=flat" alt="niharapadil" /> 
+### 📈 Profile Views  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kavankt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🤝 Connect with me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/kavan-k-t/" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="LinkedIn" height="40" width="40" />
+    <img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="LinkedIn" height="40" width="40"/>
   </a>
   <a href="https://kavankt.vercel.app/" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=512&id=59822&format=png" alt="Website" height="40" width="40" />
+    <img src="https://img.icons8.com/?size=512&id=59822&format=png" alt="Website" height="40" width="40"/>
   </a>
   <a href="https://www.instagram.com/kavannn._/#" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=512&id=32323&format=png" alt="Instagram" height="40" width="40" />
+    <img src="https://img.icons8.com/?size=512&id=32323&format=png" alt="Instagram" height="40" width="40"/>
   </a>
 </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kavankt&style=flat-square&color=blue)
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
@@ -59,13 +55,13 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
-### Databases:
+### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-### Tools & Frameworks:
+### Frameworks & Tools
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -78,14 +74,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavankt&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavankt&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavankt&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavankt&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavankt&theme=tokyonight" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavankt&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
